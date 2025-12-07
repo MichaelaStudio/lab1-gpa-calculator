@@ -11,7 +11,7 @@
 
 - Full ANSI Color Support
 
--Unicode Icons for intuitive menus
+- Unicode Icons for intuitive menus
 
 - Loading animations
 
