@@ -1,79 +1,61 @@
-### 🚀 Professional GPA Calculator with Beautiful Terminal UI
+# 🚀 Professional GPA Calculator with Beautiful Terminal UI
 - A complete, production-ready academic management system for tracking students, courses, results, and computing GPA with a stunning, colorful, interactive terminal interface.
 
 ### 📺 Optional Demo:
 - Add a GIF here → ![Demo](demo.gif)
 
-✨ Key Features
-🎨 Stunning Visual Interface
+- ✨ Key Features
+- 🎨 Stunning Visual Interface
 
-ASCII Art Logo with professional design
+- ASCII Art Logo with professional design
 
-Full ANSI Color Support
+- Full ANSI Color Support
 
-Unicode Icons for intuitive menus
+-Unicode Icons for intuitive menus
 
-Loading animations
+- Loading animations
 
-Box-drawing characters for clean layout
+- Box-drawing characters for clean layout
 
-Responsive design (auto fits terminal)
+- Responsive design (auto fits terminal)
 
-📚 Complete Academic Management
-👨‍🎓 Students Module
+# 📚 Complete Academic Management
+# 👨‍🎓 Students Module
 
-Add, list, update, delete students
+- Add, list, update, delete students
 
-Search by ID or name
+- Search by ID or name
 
-📚 Courses Module
+# 📚 Courses Module
 
-Manage course catalog
+- Manage course catalog
 
-Add, list, update, delete courses
+- Add, list, update, delete courses
 
-📊 Results Module
+# 📊 Results Module
 
-Record exam results
+- Record exam results
 
-Validate course & student relations
+- Validate course & student relations
 
-📈 GPA Calculator
+# 😎 GPA Calculator
 
-Accurate GPA computation
+- Accurate GPA computation
 
-Grade points handling
+- Grade points handling
 
-Weighted credit system
+- Weighted credit system
 
-🎓 Academic Standing
+# 🎓 Academic Standing
 
-Visual grading scale
+- Visual grading scale
 
-Auto-generated performance summary
-
-⚡ Smart System Features
-
-Color-coded GPA display
-
-Personalized academic recommendations
-
-Strong input validation
-
-Session tracking & runtime statistics
-
-Interactive menus
-
-Confirmation dialogs
-
-Error-safe execution
+- Auto-generated performance summary
 
 
-🛠️ Installation
-Prerequisites
 
-Python 3.6+
+- Python 3.6+
 
-Terminal with ANSI color support
+- Terminal with ANSI color support
 
-Git (optional, for cloning)
+- Git (optional, for cloning)
